@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/3mindedscholar" target="blank"><img src="https://img.shields.io/twitter/follow/3mindedscholar?logo=twitter&style=for-the-badge" alt="3mindedscholar" /></a> </p>
 
-- 🔭 I’m currently working on **Real-time Public Transportation Route Planner**
+- 🔭 I’m currently working on **Enterprise resource planning System**
 
 - 🌱 I’m currently learning **Backend**
 
