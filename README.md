@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Akhilesh's Code Universe 🚀</h1>
+<h1 align="center">Welcome to Akhil's Code Verse 🚀</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
