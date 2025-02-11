@@ -38,7 +38,7 @@ const Akhilesh = {
 - Email: 10akhil.t@gmail.com
 - Twitter: [@3mindedscholar](https://twitter.com/3mindedscholar)
 - LeetCode: [3MindedScholar](https://leetcode.com/3MindedScholar)
-- GeeksForGeeks: [Profile](https://auth.geeksforgeeks.org/user/user_ful3u1538za)
+- GeeksForGeeks: [User_ful3](https://auth.geeksforgeeks.org/user/user_ful3u1538za)
 
 ### 🌟 GitHub Stats
 
@@ -52,4 +52,4 @@ const Akhilesh = {
 
 ---
 
-<p align="center">💡 "The only way to do great work is to love what you do." - Steve Jobs</p>
+<p align="center">💡 "What I cannot create, I do not understand." - Richard P. Feynman</p>
