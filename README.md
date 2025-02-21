@@ -3,16 +3,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=silky-x0&color=4B0082&style=flat-square" alt="Code Voyager" /> 
-  <a href="https://www.linkedin.com/in/[YOUR_PROFILE]">
-    <img src="https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
 </p>
 
 ---
 
 ### 🔭 Currently Charting
 ```diff
-+ Building an Enterprise Resource Planning System (Laravel | React | Microservices)
++ Building an Enterprise Resource Planning System (Django | React | Microservices)
 ! Deep Diving into Distributed Systems & Event-Driven Architecture
 # Experimenting with Real-time WebGL Visualizations
 ```
@@ -34,8 +31,7 @@ const Akhilesh: DigitalToolkit;
 ```
   █ Frontend Architecture → Scalable component ecosystems
   █ Immersive Web → Physics-based animations & 3D interactions
-  █ API Design → RESTful services with Node/Express
-  █ Performance Optimization → Lighthouse 90+ scores
+  █ API Design → RESTful services with Flask/Django/Node
 ```
 
 ### 📚 Current Playground
@@ -47,18 +43,18 @@ const Akhilesh: DigitalToolkit;
 
 ### 🎧 Off-Keyboard Pursuits
 ```
-  ♜  Chess Theory (Rating: 1600+ Lichess)
+  ♜  Chess Theory
   📖  Cognitive Science Deep Dives
-  ☯️  Taoist Philosophy Applied to Code
+  ☯️  Philosophy & Psychology
 ```
 
 ### 📬 Digital Campfires
-```
-  📧 10akhil.t@gmail.com
-  🐦 [@3mindedscholar](https://twitter.com/3mindedscholar)
-  ⌨️ [LeetCode Journey](https://leetcode.com/3MindedScholar)
-  🔥 [GFG Solutions](https://auth.geeksforgeeks.org/user/user_ful3u1538za)
-```
+<p>
+  <a href="mailto:10akhil.t@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-10akhil.t%40gmail.com-D14836?style=flat-square&logo=gmail"/></a>
+  <a href="https://twitter.com/3mindedscholar"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%403mindedscholar-1DA1F2?style=flat-square&logo=twitter"/></a>
+  <a href="https://leetcode.com/3MindedScholar"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-3MindedScholar-FFA116?style=flat-square&logo=leetcode"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/user_ful3u1538za"><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GFG-user__ful3u1538za-2F8D46?style=flat-square&logo=geeksforgeeks"/></a>
+</p>
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=silky-x0&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" /> 
