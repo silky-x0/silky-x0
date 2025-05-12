@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Akhil's Code Odyssey</h1>
-<h3 align="center">Software Artisan | Systems Alchemist | Digital Architect</h3>
+<h3 align="center">Software Artisan | Digital Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=silky-x0&color=4B0082&style=flat-square" alt="Code Voyager" /> 
@@ -9,7 +9,7 @@
 
 ### 🔭 Currently Charting
 ```diff
-+ Building an Enterprise Resource Planning System (Django | React | Microservices)
++ Building an Multiplayer Chess Game (JS | Node | Express | Socket.io)
 ! Deep Diving into Distributed Systems & Event-Driven Architecture
 # Experimenting with Real-time WebGL Visualizations
 ```
@@ -20,18 +20,10 @@ interface DigitalToolkit {
   frontend: ["TypeScript", "React", "GSAP", "Three.js"];
   backend: ["Node.js", "Express", "Python", "PostgreSQL"];
   devOps: ["Docker", "Nginx", "AWS EC2"];
-  creative: ["WebGL", "P5.js", "GLSL Shaders"];
   learning: ["Kubernetes", "GraphQL", "Rust"];
 }
 
 const Akhilesh: DigitalToolkit;
-```
-
-### 🌌 Crafting Digital Experiences
-```
-  █ Frontend Architecture → Scalable component ecosystems
-  █ Immersive Web → Physics-based animations & 3D interactions
-  █ API Design → RESTful services with Flask/Django/Node
 ```
 
 ### 📚 Current Playground
@@ -61,4 +53,4 @@ const Akhilesh: DigitalToolkit;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silky-x0&layout=compact&theme=merko&hide_border=true" /> 
 </div>
 
-<p align="center"> <em>"We are all apprentices in a craft where no one ever becomes a master." - Ernest Hemingway</em> </p>
+<p align="center"> <em>"What I cannot create, I do not understand." - Richard Feynman</em> </p>
