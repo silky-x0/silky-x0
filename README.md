@@ -17,10 +17,10 @@
 ### 🛠️ Tech Arsenal
 ```typescript
 interface DigitalToolkit {
-  frontend: ["TypeScript", "React", "GSAP", "Three.js"];
-  backend: ["Node.js", "Express", "Python", "PostgreSQL"];
+  frontend: ["TypeScript", "React", "Framer", "Three.js"];
+  backend: ["Node.js", "Express", "MongoDB"];
   devOps: ["Docker", "Nginx", "AWS EC2"];
-  learning: ["Kubernetes", "GraphQL", "Rust"];
+  learning: ["Kubernetes", "GraphQL", "Rust", "PostgreSQL"];
 }
 
 const Akhilesh: DigitalToolkit;
