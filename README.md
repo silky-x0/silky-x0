@@ -1,46 +1,46 @@
-<h1 align="center">🚀 Akhil's Code Odyssey</h1>
-<h3 align="center">Software Artisan | Digital Architect</h3>
+<h1 align="center">🧃 Akhil's Code Chaos</h1>
+<h3 align="center">Full-time Debugger | Part-time Philosopher | Occasional Coder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silky-x0&color=4B0082&style=flat-square" alt="Code Voyager" /> 
+  <img src="https://komarev.com/ghpvc/?username=silky-x0&color=4B0082&style=flat-square" alt="Yes, people are stalking this profile" /> 
 </p>
 
 ---
 
-### 🔭 Currently Charting
+### 🔭 Currently Breaking Things With
 ```diff
-+ Building an Multiplayer Chess Game (JS | Node | Express | Socket.io)
-! Deep Diving into Distributed Systems & Event-Driven Architecture
-# Experimenting with Real-time WebGL Visualizations
++ Attempting a Multiplayer Chess Game (JS | Node | Express | Socket.io)
+! Pretending to Understand Distributed Systems
+# Staring at WebGL until it makes sense
 ```
 
-### 🛠️ Tech Arsenal
+### 🛠️ My Semi-Functional Toolbelt
 ```typescript
-interface DigitalToolkit {
-  frontend: ["TypeScript", "React", "Framer", "Three.js"];
-  backend: ["Node.js", "Express", "MongoDB"];
-  devOps: ["Docker", "Nginx", "AWS EC2"];
-  learning: ["Kubernetes", "GraphQL", "Rust", "PostgreSQL"];
+interface AkhilBuildsStuff {
+  frontend: ["TypeScript", "React", "Framer", "Three.js"],
+  backend: ["Node.js", "Express", "MongoDB"],
+  devOps: ["Docker", "Nginx", "AWS EC2"],
+  learning: ["Kubernetes", "GraphQL", "Rust", "PostgreSQL"]
 }
 
-const Akhilesh: DigitalToolkit;
+const akhil = new AkhilBuildsStuff();
 ```
 
-### 📚 Current Playground
+### 📚 Current Rabbit Holes
 ```
-  ⎔ System Design Patterns
-  ⎔ Domain-Driven Design
-  ⎔ WebAssembly Explorations
-```
-
-### 🎧 Off-Keyboard Pursuits
-```
-  ♜  Chess Theory
-  📖  Cognitive Science Deep Dives
-  ☯️  Philosophy & Psychology
+  🔍 System Design Patterns (because why not)
+  🧩 Domain-Driven Design (aka modeling reality... sort of)
+  🌀 WebAssembly – because normal JS wasn’t confusing enough
 ```
 
-### 📬 Digital Campfires
+### 🎧 Stuff I Do When I'm Not Yelling at my Code
+```
+  ♜  Chess (because regular stress wasn’t enough)
+  📖  Reading psychology and then psychoanalyzing myself
+  ☯️  Losing existential debates with myself at 3 AM
+```
+
+### 📬 Stalk Me Here
 <p>
   <a href="mailto:10akhil.t@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-10akhil.t%40gmail.com-D14836?style=flat-square&logo=gmail"/></a>
   <a href="https://twitter.com/3mindedscholar"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%403mindedscholar-1DA1F2?style=flat-square&logo=twitter"/></a>
@@ -53,4 +53,4 @@ const Akhilesh: DigitalToolkit;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silky-x0&layout=compact&theme=merko&hide_border=true" /> 
 </div>
 
-<p align="center"> <em>"What I cannot create, I do not understand." - Richard Feynman</em> </p>
+<p align="center"> <em>"If it works, don't touch it. If it doesn't, Google it." – Also me, probably</em> </p>
