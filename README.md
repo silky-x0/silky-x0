@@ -38,6 +38,7 @@ const akhil = new AkhilBuildsStuff();
   ♜  Chess (because regular stress wasn’t enough)
   📖  Reading psychology and then psychoanalyzing myself
   ☯️  Losing existential debates with myself at 3 AM
+  💪  Lifting weights and pretending it’s easier than debugging
 ```
 
 ### 📬 Stalk Me Here
