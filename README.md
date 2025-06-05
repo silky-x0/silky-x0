@@ -54,4 +54,4 @@ const akhil = new AkhilBuildsStuff();
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silky-x0&layout=compact&theme=merko&hide_border=true" /> 
 </div>
 
-<p align="center"> <em>"If it works, don't touch it. If it doesn't, Google it." – Also me, probably</em> </p>
+<p align="center"> <em> Built. Broke. Fixed. Learned. </em> </p>
