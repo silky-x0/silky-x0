@@ -9,7 +9,7 @@
 
 ### 🔭 Currently Breaking Things With
 ```diff
-+ Attempting a Multiplayer Chess Game (JS | Node | Express | Socket.io)
++ Making Anon-Board Platform (Anonymous Platform exculsively for students to rant about)
 ! Pretending to Understand Distributed Systems
 # Staring at WebGL until it makes sense
 ```
