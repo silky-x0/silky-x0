@@ -1,4 +1,4 @@
-<h1 align="center">⚡Akhil's Code & Chaos </h1>
+<h1 align="center">⚡Hey Akhil here! </h1>
 <h3 align="center">Full-time Debugger | Part-time Philosopher | Occasional Coder</h3>
 
 <p align="center">
