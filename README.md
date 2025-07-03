@@ -1,6 +1,6 @@
 ## Hey there, I'm Akhil 👨‍💻
 
-**Building stuff that sometimes works** • Currently Learning Auth Techniques
+> Full-time Debugger | Part-time Philosopher | Occasional Coder
 
 ---
 
@@ -8,20 +8,13 @@
 `TypeScript` `React` `Node.js` `MongoDB` `Docker` `AWS` `Three.js`
 
 ### What I'm learning
-`Kubernetes` `GraphQL` `Rust` `PostgreSQL` `System Design`
+`Kubernetes` `GraphQL` `Authentication` `PostgreSQL` `System Design`
 
 ### When I'm not coding
 Chess • Psychology books • Existential debates • Weightlifting
 
-### 📊 What I've been up to
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silky-x0&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silky-x0&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 ### 📫 Find me
-<p align="center">
+<p>
   <a href="mailto:10akhil.t@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
