@@ -1,6 +1,6 @@
 ## Hey there, I'm Akhil 👨‍💻
 
-**Building stuff that sometimes works** • Currently crafting **Anon-Board** for student rants
+**Building stuff that sometimes works** • Currently Learning Auth Techniques
 
 ---
 
@@ -20,10 +20,9 @@
 </div>
 
 ### 🎯 Current Mission
-- 🔨 Building anonymous platforms that don't crash
 - 📚 Pretending to understand distributed systems
 - 🧠 Learning Kubernetes (and crying a little)
-- ♟️ Playing chess when compilation fails
+- ♟️ Playing chess when 'npm run dev' fails
 
 ### 📫 Let's connect
 <p align="center">
@@ -40,4 +39,4 @@
 
 ---
 
-## *Code. Coffee. Chaos. Repeat.*
+## *Code. Coffee. lift. Repeat.*
