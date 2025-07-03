@@ -1,6 +1,4 @@
-```
-👋 Akhil
-```
+# 👋 Akhil
 
 > Full-time Debugger | Part-time Philosopher | Occasional Coder
 
@@ -20,4 +18,8 @@ Chess • Psychology books • 3 AM existential debates • Weightlifting
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silky-x0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
 
-<sub>*Built. Broke. Fixed. Learned.*</sub>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silky-x0&layout=compact&theme=tokyonight&hide_border=true&card_width=445)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=silky-x0&theme=tokyonight&hide_border=true)
+
+### *Built. Broke. Fixed. Learned.*
