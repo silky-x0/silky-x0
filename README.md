@@ -5,13 +5,13 @@
 ---
 
 ### What I work with
-`TypeScript` `React` `Node.js` `MongoDB` `Docker` `AWS` `Three.js`
+`TypeScript` `Node.js` `MongoDB` `Docker` `React` `AWS`
 
 ### What I'm learning
-`Kubernetes` `GraphQL` `Authentication` `PostgreSQL` `System Design`
+`GraphQL` `Authentication` `PostgreSQL` `System Design`
 
 ### When I'm not coding
-Chess • Psychology books • Existential debates • Weightlifting
+Chess • Psychology books • Existential debates • Weightlifting • Manga/Manhwa
 
 ### 📫 Find me
 <p>
