@@ -29,3 +29,4 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
 ---
 
 ### *Built. Broke. Fixed. Learned.*
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
