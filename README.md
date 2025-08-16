@@ -21,11 +21,11 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
   <a href="https://twitter.com/3mindedscholar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/3MindedScholar">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/akhil-is-dev100">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/3MindedScholar">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
