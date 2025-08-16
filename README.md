@@ -41,5 +41,3 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-### *Built. Broke. Fixed. Learned.*
