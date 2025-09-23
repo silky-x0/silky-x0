@@ -29,6 +29,8 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
   </a>
 </p>
 
+[![An image of @silkyx0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/silkyx0)](https://holopin.io/@silkyx0)
+
 ---
 <picture>
   <source
