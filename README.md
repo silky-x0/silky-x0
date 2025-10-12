@@ -27,6 +27,9 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
   <a href="https://leetcode.com/3MindedScholar">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://medium.com/@10akhil.t">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" />
+  </a>
 </p>
 
 [![An image of @silkyx0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/silkyx0)](https://holopin.io/@silkyx0)
