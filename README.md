@@ -28,7 +28,7 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://medium.com/@10akhil.t">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
