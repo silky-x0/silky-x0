@@ -8,7 +8,7 @@
 `TypeScript` `Node.js` `MongoDB` `Docker` `React` `AWS`
 
 ### What I'm learning
-`GraphQL` `Authentication` `PostgreSQL` `System Design`
+`GraphQL` `PostgreSQL` `System Design`
 
 ### When I'm not coding
 Chess • Psychology books • Existential debates • Weightlifting • Manga/Manhwa
