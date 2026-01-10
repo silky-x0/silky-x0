@@ -5,7 +5,7 @@
 ---
 
 ### What I work with
-`TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Docker` `React` `AWS`
+`TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Docker` `React` `Next.JS` `AWS` `GCP`
 
 ### What I'm learning
 `System Design` `Event-driven Architecture` `Cryptography`
