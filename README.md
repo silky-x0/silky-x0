@@ -5,10 +5,10 @@
 ---
 
 ### What I work with
-`TypeScript` `Node.js` `MongoDB` `Docker` `React` `AWS`
+`TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Docker` `React` `AWS`
 
 ### What I'm learning
-`GraphQL` `PostgreSQL` `System Design`
+`System Design` `Event-driven Architecture` `Cryptography`
 
 ### When I'm not coding
 Chess • Psychology books • Existential debates • Weightlifting • Manga/Manhwa
