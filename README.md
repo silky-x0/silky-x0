@@ -1,6 +1,5 @@
 ## Hey there, I'm Akhil 👨‍💻
 
-> Full-time Debugger | Part-time Philosopher
 
 ---
 
