@@ -32,4 +32,4 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
   </a>
 </p>
 
-![My GitHub Game](game.gif)
+<img src="koi/koi.gif" width="256" alt="My koi">
