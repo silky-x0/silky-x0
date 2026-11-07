@@ -33,5 +33,5 @@ Chess • Psychology books • Existential debates • Weightlifting • Manga/M
 </p>
 
 <p align="center">
-  <img src="koi/koi.gif" width="100%" alt="My koi">
+  <img src="koi/koi.gif" width="100%" style="max-width: 1200px;" alt="My koi">
 </p>
